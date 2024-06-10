@@ -1,22 +1,6 @@
-# Heading 1
+# About Voices in Color Oral History Digital Collection
 
-## Heading 2
-
-
-----------
-
-## CollectionBuilder 
-
-<https://collectionbuilder.github.io/>
-
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
-Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
-
-The basic theme is created using [Bootstrap](https://getbootstrap.com/).
-Metadata visualizations are built using open source libraries such as [DataTables](https://datatables.net/), [Leafletjs](http://leafletjs.com/), [Spotlight gallery](https://github.com/nextapps-de/spotlight), [lazysizes](https://github.com/aFarkas/lazysizes), and [Lunr.js](https://lunrjs.com/).
-Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards.
-
-Questions can be directed to **collectionbuilder.team@gmail.com**
+Stories of communities of color have traditionally been relegated to the margins of America's historical narrative and the documentation of communities of color have not been acquired and preserved by America's cultural heritage institutions. When these stories are told, they are typically told from the perspective of Whiteness, continuing to silence these communities. This pattern holds true at Predominantly White Institutions (PWIs) like Iowa State University, where discussions of racial and ethnic diversity in Iowa State's history typically focus on Jack Trice and George Washington Carver. Individuals of color at predominantly white institutions face a multitude of obstacles at predominantly white institutions, including Iowa State University. These obstacles include feelings of isolation, a lack of mentorship, devaluing of minority-centered research, among others. Communities of color (such as organizations and culture centers) provide spaces for students, faculty, and staff of color to build relationships, network, gain mentors, and provide an outlet for race-based frustrations. These communities are central to improving the quality of life for many racial and ethnic minorities at PWIs. This project seeks to document, preserve, and share the history of racial and ethnic diversity at Iowa State University through the lens of communities of color, inserting these stories into Iowa State's historical narrative and archival record.
 
 ## License
 
